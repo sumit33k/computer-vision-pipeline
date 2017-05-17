@@ -1,12 +1,15 @@
 # Computer Vision Pipeline Website
 ---
-Requires the following programs to run:
-1.) Postgres
-2.) OpenCV
-3.) dlib
-4.) OpenFace
-5.) eyeLike
 
-Set-up:
-1.) Edit configs/Config.php to match your settings
-2.) Run configs/CreateDB.php to set up database 
+### Requirements:
+1. [Postgres](https://www.postgresql.org/)
+2. [OpenCV](http://opencv.org/)
+3. [dlib](http://dlib.net/)
+4. [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)
+5. [eyeLike](https://github.com/trishume/eyeLike)
+
+### Set-up:
+1. Edit configs/Config.php to match your settings
+2. Run configs/CreateDB.php to set up database 
+
+Program was built and tested on Ubuntu and Apache
