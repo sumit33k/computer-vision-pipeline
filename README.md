@@ -1,5 +1,7 @@
-# Computer Vision Pipeline Website
----
+# CS160_FiveGuysOneCode
+
+Demonstration:
+https://www.youtube.com/watch?v=x_2lEoLs9bM
 
 ### Requirements:
 1. [Postgres](https://www.postgresql.org/)
@@ -13,3 +15,11 @@
 2. Run configs/CreateDB.php to set up database 
 
 Program was built and tested on Ubuntu and Apache
+
+
+Names of Contributors (in no specific order):
+-Wai Myint
+-Nicholas Boyd
+-San Singh
+-Benjamin Liu
+
